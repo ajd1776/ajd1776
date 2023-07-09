@@ -44,5 +44,4 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img alt="CSS" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </div>
-up
 <hr>
