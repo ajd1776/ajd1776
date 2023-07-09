@@ -34,6 +34,9 @@
     <!-- Plotly -->
     <a href="https://plotly.com/">
         <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly"></a>
+    <!-- mysql -->
+    <a href="https://plotly.com/">
+        <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <!-- HTML -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></a>
@@ -44,5 +47,4 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img alt="CSS" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </div>
-up
 <hr>
