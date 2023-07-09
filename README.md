@@ -11,10 +11,10 @@
 
 <div>
 
-💻 I'm currently working on a custom timetabling & booking system for a Pet Waste Management company located in Milton Keynes.
-🎯 I'm actively seeking a position as a Data Analyst in the financial sector.
-🎓 I've recently graduated from University with a 1st in Computer Science.
-🎨 I refine my graphic design skills by creating artwork and sharing it on Instagram @ajd.gfx. 
+<p>💻 I'm currently working on a custom timetabling & booking system for a Pet Waste Management company located in Milton Keynes.</p>
+<p>🎯 I'm actively seeking a position as a Data Analyst in the financial sector.</p>
+<p>🎓 I've recently graduated from University with a 1st in Computer Science.</p>
+<p>🎨 I refine my graphic design skills by creating artwork and sharing it on Instagram @ajd.gfx.</p>
 
 </div>
 
