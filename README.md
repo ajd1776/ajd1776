@@ -4,13 +4,13 @@
 <h2>A Data Analyst and Graphic Designer from the UK.</h2>
 
 
+<hr>
 <h5>Contact Me!</h5>
 📧 AJD1776.AD@gmail.com 
-<br>
-<br>
 
 <div>
 
+<hr>
 <p>💻 I'm currently working on a custom timetabling & booking system for a Pet Waste Management company located in Milton Keynes.</p>
 <p>🎯 I'm actively seeking a position as a Data Analyst in the financial sector.</p>
 <p>🎓 I've recently graduated from University with a 1st in Computer Science.</p>
@@ -19,6 +19,7 @@
 </div>
 
 <!-- SHIELDS -->
+<hr>
 <div>
     <h3 id="built-with">My Top Technologies</h3>
     <!-- Python -->
@@ -43,3 +44,5 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img alt="CSS" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </div>
+
+<hr>
