@@ -2,7 +2,6 @@
 <h1>Hi, I'm AJ 💿</h1>
 
 <H4>A Data Analyst and Graphic Designer from the UK.</H4>
-<br>
 
 
 <h5>Contact Me!</h5>
