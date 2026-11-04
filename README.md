@@ -2,7 +2,7 @@
 
 **Computer Scientist | Software, Data and Motion Design | United Kingdom**
 
-I hold First-Class Degree in Computer Science. My work spans software development, data analysis and motion design, from building applications for Apple platforms to turning data into clear insight and producing animated visuals and sci-fi interface design.
+I hold a First-Class Degree in Computer Science. My work spans software development, data analysis and motion design, from building applications for Apple platforms to turning data into clear insight and producing animated visuals and sci-fi interface design.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajd.gfx/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://uk.pinterest.com/ajdgfx/)
