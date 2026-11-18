@@ -1,40 +1,21 @@
 # AJ
 
-**Computer Scientist | Software, Data and Motion Design | United Kingdom**
+**Data Analyst | First-Class Degree in Computer Science | London**
 
-I hold a First-Class Degree in Computer Science. My work spans software development, data analysis and motion design, from building applications for Apple platforms to turning data into clear insight and producing animated visuals and sci-fi interface design.
+Data analyst with a background in software development and design. I turn raw data into clear, decision-ready insight using Python and SQL.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajd.gfx/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://uk.pinterest.com/ajdgfx/)
+Open to data analyst roles. Contact: [email](mailto:AJD1776.AD@gmail.com).
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AJD1776.AD@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajd.gfx/)
 
 ---
 
-## Computer Science
+## Expertise
 
-Software development is my core discipline, with a focus on Apple applications and Python.
-
-- **Apple platforms:** application development in Swift.
-- **Python:** scripting and data workflows.
-- **Web:** development with JavaScript, HTML and CSS.
-
-## Data Analysis
-
-End-to-end analysis, from data collection through to the insight that informs a decision.
-
-- **Data collection:** sourcing the right data for a defined question.
-- **Analysis and data science:** analytical work in Python, pandas, NumPy and MySQL.
-- **Reporting:** reports, presentations and Plotly visualisations that communicate findings and insight clearly.
-
-## Graphic Design
-
-Motion-led visual design, specialising in sci-fi user interfaces.
-
-- **Motion design:** animated graphics for screen.
-- **Sci-fi UI design:** futuristic interface concepts and animated displays.
-- **2D and 3D production:** After Effects, Illustrator, Photoshop, Blender and Aseprite.
-
-Selected work is available on Instagram: [@ajd.gfx](https://www.instagram.com/ajd.gfx/)
+- **Data analysis:** collection, cleaning, analysis and reporting with Python, pandas, NumPy, SQL and Plotly.
+- **Software development:** macOS apps in Swift and SwiftUI, and web tools in JavaScript.
+- **Design:** motion graphics and interface design in After Effects, Blender, Illustrator, Photoshop and Aseprite. Portfolio: [@ajd.gfx](https://www.instagram.com/ajd.gfx/).
 
 <!--
   SHOWCASE GRID: hidden until your GIFs are ready.
@@ -51,9 +32,50 @@ Selected work is available on Instagram: [@ajd.gfx](https://www.instagram.com/aj
 </table>
 -->
 
+## Selected projects
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/ajd1776/Quill-Auto-Text-Replacement"><img src="https://raw.githubusercontent.com/ajd1776/Quill-Auto-Text-Replacement/main/docs/media/hero.gif" alt="Quill expanding a typed shortcut into full text on a Mac"></a>
+      <h3><a href="https://github.com/ajd1776/Quill-Auto-Text-Replacement">Quill</a></h3>
+      <p>System-wide text expander for macOS, built in SwiftUI. Live suggestions, fill-in fields, dynamic tokens and usage statistics.</p>
+      <p><a href="https://github.com/ajd1776/Quill-Auto-Text-Replacement/releases/latest">Download for Mac</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ajd1776/Netflix-History-Dashboard"><img src="https://raw.githubusercontent.com/ajd1776/Netflix-History-Dashboard/main/docs/screenshots/hero-dark.png" alt="Netflix History dashboard showing viewing totals, a monthly timeline and highlight tiles"></a>
+      <h3><a href="https://github.com/ajd1776/Netflix-History-Dashboard">Netflix History</a></h3>
+      <p>Interactive dashboard for Netflix viewing history: timelines, heatmaps, year-on-year change and automated insights. Runs fully offline.</p>
+      <p><a href="https://github.com/ajd1776/Netflix-History-Dashboard/releases/latest">Download for Mac or Windows</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ajd1776/Raindrop-Bookmark-Admin-Panel"><img src="https://raw.githubusercontent.com/ajd1776/Raindrop-Bookmark-Admin-Panel/main/docs/screenshot-stats.png" alt="Raindrop Bookmark Admin Panel stats page with text-character charts"></a>
+      <h3><a href="https://github.com/ajd1776/Raindrop-Bookmark-Admin-Panel">Raindrop Bookmark Admin Panel</a></h3>
+      <p>Analytics dashboard for a Raindrop.io bookmark library, with AI-assisted classification and approval of every change.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ajd1776/calendar-generator"><img src="https://raw.githubusercontent.com/ajd1776/calendar-generator/main/assets/screenshot.jpg" alt="Calendar Generator showing a researched event schedule and its sources"></a>
+      <h3><a href="https://github.com/ajd1776/calendar-generator">Calendar Generator</a></h3>
+      <p>Extracts official event schedules from the web, cites a source for each date and exports a standard .ics calendar.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ajd1776/Touch-Typing-Trainer"><img src="https://raw.githubusercontent.com/ajd1776/Touch-Typing-Trainer/main/assets/stats.png" alt="Touch Type Trainer stats page with per-key accuracy and a keyboard heat map"></a>
+      <h3><a href="https://github.com/ajd1776/Touch-Typing-Trainer">Touch Type Trainer</a></h3>
+      <p>Typing tutor with per-key accuracy, per-finger speed and adaptive drills that target weak keys.</p>
+      <p><a href="https://ajd1776.github.io/Touch-Typing-Trainer/">Try it in the browser</a></p>
+    </td>
+  </tr>
+</table>
+
+Also: [Theme Studio](https://github.com/ajd1776/Claude-Artefact-Theme-Studio), a macOS app for designing terminal-style themes.
+
 ---
 
-## Core Technologies
+## Technical Skills
 
 <!--
   Each chip is an image generated from its URL by shields.io:
@@ -62,20 +84,20 @@ Selected work is available on Instagram: [@ajd.gfx](https://www.instagram.com/aj
   Simple Icons has no Adobe logos, so the Adobe chips carry their own small SVG letters, base64-encoded in logo=.
 -->
 
-**Programming**
-
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
 **Data**
 
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+**Software**
+
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Design**
 
